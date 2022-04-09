@@ -19,6 +19,9 @@ class VerifyCsrfToken extends Middleware
      * @var array
      */
     protected $except = [
-        //
+        '/save-time-track',
+        '/get-phone-status-callback',
+        'get-communication-reply',
+        '/send-communication-phone'
     ];
 }

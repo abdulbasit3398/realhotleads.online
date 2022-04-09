@@ -1,0 +1,6 @@
+
+acts_policies->title
+acts_policies_description->title
+
+
+territoria_entities->territorial_entity

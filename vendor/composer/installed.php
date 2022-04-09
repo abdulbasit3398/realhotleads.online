@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v5.8.35',
-    'version' => '5.8.35.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '968cd024f8b07dd907368f51d403e6ca5702e6cb',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -97,6 +97,24 @@
       ),
       'reference' => 'cb17b6477dfff935958ba01325f2e8a2bfa6dab3',
     ),
+    'evenement/evenement' => 
+    array (
+      'pretty_version' => 'v3.0.1',
+      'version' => '3.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '531bfb9d15f8aa57454f5f0285b18bec903b8fb7',
+    ),
+    'ezyang/htmlpurifier' => 
+    array (
+      'pretty_version' => 'v4.14.0',
+      'version' => '4.14.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '12ab42bd6e742c70c0a52f7b82477fcd44e64b75',
+    ),
     'fideloper/proxy' => 
     array (
       'pretty_version' => '4.4.1',
@@ -115,6 +133,15 @@
       ),
       'reference' => 'a63e5e8f26ebbebf8ed3c5c691637325512eb0dc',
     ),
+    'firebase/php-jwt' => 
+    array (
+      'pretty_version' => 'v5.5.1',
+      'version' => '5.5.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '83b609028194aa042ea33b5af2d41a7427de80e6',
+    ),
     'fzaninotto/faker' => 
     array (
       'pretty_version' => 'v1.9.2',
@@ -124,6 +151,60 @@
       ),
       'reference' => '848d8125239d7dbf8ab25cb7f054f1a630e68c2e',
     ),
+    'google/apiclient' => 
+    array (
+      'pretty_version' => 'v2.12.2',
+      'version' => '2.12.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a18b0e1ef5618523c607c01a41ec137c7f9af3b1',
+    ),
+    'google/apiclient-services' => 
+    array (
+      'pretty_version' => 'v0.242.0',
+      'version' => '0.242.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '73d4c0ed4b241e7396699e0ee1d1cdebabac25e8',
+    ),
+    'google/auth' => 
+    array (
+      'pretty_version' => 'v1.19.0',
+      'version' => '1.19.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '31e5d24d5fa0eaf6adc7e596292dc4732f4b60c5',
+    ),
+    'guzzlehttp/guzzle' => 
+    array (
+      'pretty_version' => '7.4.2',
+      'version' => '7.4.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'ac1ec1cd9b5624694c3a40be801d94137afb12b4',
+    ),
+    'guzzlehttp/promises' => 
+    array (
+      'pretty_version' => '1.5.1',
+      'version' => '1.5.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'fe752aedc9fd8fcca3fe7ad05d419d32998a06da',
+    ),
+    'guzzlehttp/psr7' => 
+    array (
+      'pretty_version' => '2.2.1',
+      'version' => '2.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c94a94f120803a18554c1805ef2e539f8285f9a2',
+    ),
     'hamcrest/hamcrest-php' => 
     array (
       'pretty_version' => 'v2.0.1',
@@ -132,6 +213,15 @@
       array (
       ),
       'reference' => '8c3d0a3f6af734494ad8f6fbbee0ba92422859f3',
+    ),
+    'icecave/repr' => 
+    array (
+      'pretty_version' => '4.0.0',
+      'version' => '4.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3dad35ee43394404ae0f1926d754e7b7820da8e4',
     ),
     'illuminate/auth' => 
     array (
@@ -361,12 +451,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v5.8.35',
-      'version' => '5.8.35.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '968cd024f8b07dd907368f51d403e6ca5702e6cb',
     ),
     'laravel/tinker' => 
     array (
@@ -386,6 +476,15 @@
       ),
       'reference' => '094defdb4a7001845300334e7c1ee2335925ef99',
     ),
+    'league/flysystem-cached-adapter' => 
+    array (
+      'pretty_version' => '1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd1925efb2207ac4be3ad0c40b8277175f99ffaff',
+    ),
     'league/mime-type-detection' => 
     array (
       'pretty_version' => '1.9.0',
@@ -394,6 +493,42 @@
       array (
       ),
       'reference' => 'aa70e813a6ad3d1558fc927863d47309b4c23e69',
+    ),
+    'maatwebsite/excel' => 
+    array (
+      'pretty_version' => '3.1.38',
+      'version' => '3.1.38.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'dff132ce4d30b19863f4e84de1613fca99604992',
+    ),
+    'maennchen/zipstream-php' => 
+    array (
+      'pretty_version' => '2.1.0',
+      'version' => '2.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c4c5803cc1f93df3d2448478ef79394a5981cc58',
+    ),
+    'markbaker/complex' => 
+    array (
+      'pretty_version' => '3.0.1',
+      'version' => '3.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'ab8bc271e404909db09ff2d5ffa1e538085c0f22',
+    ),
+    'markbaker/matrix' => 
+    array (
+      'pretty_version' => '3.0.0',
+      'version' => '3.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c66aefcafb4f6c269510e9ac46b82619a904c576',
     ),
     'mockery/mockery' => 
     array (
@@ -421,6 +556,42 @@
       array (
       ),
       'reference' => '14daed4296fae74d9e3201d2c4925d1acb7aa614',
+    ),
+    'myclabs/php-enum' => 
+    array (
+      'pretty_version' => '1.8.3',
+      'version' => '1.8.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b942d263c641ddb5190929ff840c68f78713e937',
+    ),
+    'myphpnotes/cpanel' => 
+    array (
+      'pretty_version' => 'v1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'ec683416c045f611c8553f67f7234c374ec7a39c',
+    ),
+    'nao-pon/flysystem-cached-extra' => 
+    array (
+      'pretty_version' => '1.0.3',
+      'version' => '1.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '189abdafa0a86d92781e148ee8740ef80f4c5859',
+    ),
+    'nao-pon/flysystem-google-drive' => 
+    array (
+      'pretty_version' => '1.1.13',
+      'version' => '1.1.13.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'bb812339ecf06540ed096f71403f10fcbcc590f3',
     ),
     'nesbot/carbon' => 
     array (
@@ -458,6 +629,15 @@
       ),
       'reference' => '3d81e4309d2a927abbe66df935f4bb60082805ad',
     ),
+    'paragonie/constant_time_encoding' => 
+    array (
+      'pretty_version' => 'v2.5.0',
+      'version' => '2.5.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9229e15f2e6ba772f0c55dd6986c563b937170a8',
+    ),
     'paragonie/random_compat' => 
     array (
       'pretty_version' => 'v9.99.100',
@@ -466,6 +646,15 @@
       array (
       ),
       'reference' => '996434e5492cb4c3edcb9168db6fbb1359ef965a',
+    ),
+    'paypal/rest-api-sdk-php' => 
+    array (
+      'pretty_version' => '1.14.0',
+      'version' => '1.14.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '72e2f2466975bf128a31e02b15110180f059fc04',
     ),
     'phar-io/manifest' => 
     array (
@@ -530,6 +719,15 @@
       ),
       'reference' => '77a32518733312af16a44300404e945338981de3',
     ),
+    'phpoffice/phpspreadsheet' => 
+    array (
+      'pretty_version' => '1.22.0',
+      'version' => '1.22.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3a9e29b4f386a08a151a33578e80ef1747037a48',
+    ),
     'phpoption/phpoption' => 
     array (
       'pretty_version' => '1.8.1',
@@ -538,6 +736,15 @@
       array (
       ),
       'reference' => 'eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15',
+    ),
+    'phpseclib/phpseclib' => 
+    array (
+      'pretty_version' => '3.0.14',
+      'version' => '3.0.14.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2f0b7af658cbea265cbb4a791d6c29a6613f98ef',
     ),
     'phpspec/prophecy' => 
     array (
@@ -602,6 +809,15 @@
       ),
       'reference' => '9467db479d1b0487c99733bb1e7944d32deded2c',
     ),
+    'psr/cache' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd11b50ad223250cf17b86e38383413f5a6764bf8',
+    ),
     'psr/container' => 
     array (
       'pretty_version' => '1.1.1',
@@ -612,6 +828,54 @@
       'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
     ),
     'psr/event-dispatcher-implementation' => 
+    array (
+      'provided' => 
+      array (
+        0 => '1.0',
+      ),
+    ),
+    'psr/http-client' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2dfb5f6c5eff0e91e20e913f8c5452ed95b86621',
+    ),
+    'psr/http-client-implementation' => 
+    array (
+      'provided' => 
+      array (
+        0 => '1.0',
+      ),
+    ),
+    'psr/http-factory' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '12ac7fcd07e5b077433f5f2bee95b3a771bf61be',
+    ),
+    'psr/http-factory-implementation' => 
+    array (
+      'provided' => 
+      array (
+        0 => '1.0',
+      ),
+    ),
+    'psr/http-message' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f6561bf28d520154e4b0ec72be95418abe6d9363',
+    ),
+    'psr/http-message-implementation' => 
     array (
       'provided' => 
       array (
@@ -631,8 +895,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -653,6 +917,15 @@
       ),
       'reference' => '90da7f37568aee36b116a030c5f99c915267edd4',
     ),
+    'ralouphie/getallheaders' => 
+    array (
+      'pretty_version' => '3.0.3',
+      'version' => '3.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+    ),
     'ramsey/uuid' => 
     array (
       'pretty_version' => '3.9.6',
@@ -661,6 +934,114 @@
       array (
       ),
       'reference' => 'ffa80ab953edd85d5b6c004f96181a538aad35a3',
+    ),
+    'ratchet/pawl' => 
+    array (
+      'pretty_version' => 'v0.4.1',
+      'version' => '0.4.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'af70198bab77a582b31169d3cc3982bed25c161f',
+    ),
+    'ratchet/rfc6455' => 
+    array (
+      'pretty_version' => 'v0.3.1',
+      'version' => '0.3.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7c964514e93456a52a99a20fcfa0de242a43ccdb',
+    ),
+    'react/cache' => 
+    array (
+      'pretty_version' => 'v1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '4bf736a2cccec7298bdf745db77585966fc2ca7e',
+    ),
+    'react/dns' => 
+    array (
+      'pretty_version' => 'v1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6d38296756fa644e6cb1bfe95eff0f9a4ed6edcb',
+    ),
+    'react/event-loop' => 
+    array (
+      'pretty_version' => 'v1.3.0',
+      'version' => '1.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '187fb56f46d424afb6ec4ad089269c72eec2e137',
+    ),
+    'react/promise' => 
+    array (
+      'pretty_version' => 'v2.9.0',
+      'version' => '2.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '234f8fd1023c9158e2314fa9d7d0e6a83db42910',
+    ),
+    'react/promise-timer' => 
+    array (
+      'pretty_version' => 'v1.8.0',
+      'version' => '1.8.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0bbbcc79589e5bfdddba68a287f1cb805581a479',
+    ),
+    'react/socket' => 
+    array (
+      'pretty_version' => 'v1.11.0',
+      'version' => '1.11.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f474156aaab4f09041144fa8b57c7d70aed32a1c',
+    ),
+    'react/stream' => 
+    array (
+      'pretty_version' => 'v1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7a423506ee1903e89f1e08ec5f0ed430ff784ae9',
+    ),
+    'recoil/api' => 
+    array (
+      'pretty_version' => '1.0.2',
+      'version' => '1.0.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '4f9b3f2638157e277606fe51718c3a0106da7807',
+    ),
+    'recoil/kernel' => 
+    array (
+      'pretty_version' => '1.0.4',
+      'version' => '1.0.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e6a412293ffa684d84e7c71d3175ae0172b3f54e',
+    ),
+    'recoil/react' => 
+    array (
+      'pretty_version' => '1.0.2',
+      'version' => '1.0.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd385ab9ff8cbc99ab2d145ff9687895f9e8dcc0d',
     ),
     'rhumsaa/uuid' => 
     array (
@@ -767,6 +1148,24 @@
       array (
       ),
       'reference' => '99732be0ddb3361e16ad77b68ba41efc8e979019',
+    ),
+    'signalwire/signalwire' => 
+    array (
+      'pretty_version' => 'v2.3.10',
+      'version' => '2.3.10.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b224ece32bc9b817d538fa6eefdbf7cc3003c068',
+    ),
+    'stripe/stripe-php' => 
+    array (
+      'pretty_version' => 'v7.121.0',
+      'version' => '7.121.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e36e7afb71ae5511aae23b52dca712a0ef06d981',
     ),
     'swiftmailer/swiftmailer' => 
     array (
@@ -1042,6 +1441,15 @@
       array (
       ),
       'reference' => 'da444caae6aca7a19c0c140f68c6182e337d5b1c',
+    ),
+    'twilio/sdk' => 
+    array (
+      'pretty_version' => '6.36.1',
+      'version' => '6.36.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '68aa5dd58450d3b449c83138567ecfca93955ed9',
     ),
     'vlucas/phpdotenv' => 
     array (

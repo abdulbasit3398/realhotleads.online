@@ -1,0 +1,22 @@
+{
+    "name": "myphpnotes/cpanel",
+    "description": "A simple, lightweight library to access JSON cPanel v2 and cPanel UAPI in PHP",
+    "type": "library",
+    "keywords": ["api", "http", "rest", "cPanel", "UAPI", "api2"],
+    "homepage": "https://www.myphpnotes.com",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "myPHPnotes\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adnan Hussain Turki",
+            "email": "adnanhussainturki@gmail.com"
+        }
+    ]
+}
